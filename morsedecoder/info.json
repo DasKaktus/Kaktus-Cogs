@@ -1,0 +1,10 @@
+{
+    "NAME" : "Morse Decoder",
+    "AUTHOR" : "Kaktus",
+    "SHORT" : "Reads wav file and decrypts morse,
+    "DESCRIPTION" : "Downloads wav file and tries to decrypt the morse inside",
+    "INSTALL_MSG" : "Thanks for installing Morse Decoder.",
+    "REQUIREMENTS" : [],
+    "TAGS" : ["morse","decoder","morsedecoder", "bf1", "battlefield", "bfv"],
+    "DISABLED" : false
+}
